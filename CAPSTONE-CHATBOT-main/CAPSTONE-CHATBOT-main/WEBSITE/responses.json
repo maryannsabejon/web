@@ -1,0 +1,72 @@
+{
+  "hello": [
+    "Welcome to Happy Totes! I'm your personal shopping assistant. How can I help you find the perfect tote bag today?",
+    "Hi there! Welcome to Happy Totes! Ready to find your ideal bag?",
+    "Thanks for visiting Happy Totes! I'm here to help you find exactly what you're looking for!"
+  ],
+  "hi": [
+    "Hi there! I'm excited to help you find your ideal tote bag! Would you like to know about our sizes, styles, or current deals?",
+    "Hello! Ready to explore our amazing collection of totes?",
+    "Hey! Let's find the perfect tote for you today!"
+  ],
+  "price": [
+    "Our totes range from $15-$45. Would you like to see our detailed price list by collection?",
+    "We have totes for every budget, starting at $15! Want to see our full price breakdown?",
+    "Our prices range from $15 for classic totes to $45 for premium designs. Which collection interests you?"
+  ],
+  "material_info": [
+    "Quality materials you'll love:\nPremium Canvas (450 GSM)\nRecycled Cotton Blend\nOrganic Cotton Options\nVegan Leather Trim\nAll ethically sourced! Want to learn more about a specific material?",
+    "We use only the finest materials:\n- Premium Canvas\n- Eco-friendly Cotton\n- Vegan Leather\nWhich material would you like to know more about?",
+    "Our totes feature:\n- High-grade Canvas (450 GSM)\n- Sustainable materials\n- Premium finishes\nCan I tell you more about any of these?"
+  ],
+  "shipping": [
+    "We offer free shipping on orders over $50! Standard shipping takes 3-5 business days. Express shipping (1-2 days) is available for $9.99.",
+    "Shipping is on us for orders above $50! Regular delivery takes 3-5 days, or choose express shipping for faster delivery.",
+    "Good news - free shipping on $50+ orders! Standard: 3-5 days, Express: 1-2 days ($9.99)"
+  ],
+  "size": [
+    "We offer Small, Medium, and Large sizes to fit your needs. Would you like the exact dimensions?"
+  ],
+  "custom": [
+    "Love personalization? Add your name, initials, or custom design! Customization starts at just $5. Want to see some examples?",
+    "Make it yours! Choose colors, add text, or upload your design. Shall I show you our customization options?",
+    "Create your unique tote! We offer monogramming, custom prints, and color choices. Ready to start designing?"
+  ],
+  "warranty_info": [
+    "All our totes come with a 1-year warranty against manufacturing defects. Plus, 30-day hassle-free returns!",
+    "We stand behind our quality with a 1-year warranty and 30-day return policy. Need more details?",
+    "Your satisfaction is guaranteed! 1-year warranty included, plus easy returns within 30 days."
+  ],
+  "contact_info": [
+    "Reach us at support@happytotes.com or call 1-800-TOTES (Mon-Fri, 9am-5pm EST). We'd love to hear from you!",
+    "Questions? Email support@happytotes.com or call us at 1-800-TOTES. We're here to help!",
+    "Contact our friendly team at support@happytotes.com or 1-800-TOTES. How can we assist you?"
+  ],
+  "collection_info": [
+    "Explore our collections:\n- Classic Collection\n- Eco-Friendly Line\n- Designer Series\n- Limited Editions\nWhich would you like to see?",
+    "Browse our unique collections: Classic, Eco-Friendly, Designer, and Limited Edition totes. Want details on any specific line?",
+    "From timeless classics to eco-conscious designs, we have a collection for everyone! Which interests you most?"
+  ],
+  "default": [
+    "I'm here to help! Would you like to:\n1. See our collections\n2. Learn about sizes\n3. Check shipping\n4. Start designing\nOr ask me anything else!",
+    "Let me assist you! We can:\n- Browse collections\n- Check sizes\n- Review shipping options\nWhat interests you?",
+    "Not sure what you're looking for? I can help with:\n- Product information\n- Sizing details\n- Shipping options\n- Custom designs\nJust let me know!"
+  ],
+  "small_size": [
+    "Definitely we have small size!\nThese are the dimensions:\n- Width: 11 inches\n- Height: 12 inches\n- Depth: 2 inches\nPerfect for daily essentials!",
+    "Our small size tote specifications:\n- Width: 11\"\n- Height: 12\"\n- Depth: 2\"\nIdeal for carrying your everyday items!",
+    "Small tote measurements:\n- 11\" wide\n- 12\" tall\n- 2\" deep\nGreat for a minimalist carry!"
+  ],
+  "material_info_followup": [
+    "I can tell you more about:\n- Canvas durability\n- Eco-friendly materials\n- Care instructions\nWhat would you like to know?",
+    "Would you like to learn about:\n- Material specifications\n- Care guidelines\n- Durability features\nJust ask!"
+  ],
+  "shipping_followup": [
+    "I can help with:\n- Tracking orders\n- Shipping times\n- International shipping\n- Shipping costs\nWhat do you need?",
+    "Need more shipping details? I can explain:\n- Delivery options\n- Tracking methods\n- Shipping zones\nJust ask!"
+  ],
+  "price_followup": [
+    "I can help you with:\n- Detailed pricing\n- Bulk discounts\n- Current promotions\n- Custom order pricing\nWhat interests you?",
+    "Would you like to know about:\n- Price breakdowns\n- Special offers\n- Volume discounts\nJust ask!"
+  ]
+}
